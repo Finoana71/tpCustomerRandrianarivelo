@@ -1,4 +1,4 @@
-package mg.itu.tpcustomer.resources;
+package mg.itu.randrianarivelo.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
